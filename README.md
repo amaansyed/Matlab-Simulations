@@ -10,5 +10,3 @@
 8. **08_airfoil_lift_drag_polar.m** — Thin airfoil theory lift curve with stall modeling and drag polar, including best L/D point.
 9. **09_reentry_trajectory_heating.m** — Ballistic atmospheric reentry trajectory with Sutton-Graves stagnation-point heat flux estimation.
 10. **10_hohmann_transfer.m** — Delta-v and transfer time calculation for a Hohmann transfer, with orbit visualization.
-
-All scripts are self-contained and run in base MATLAB (no additional toolboxes required beyond ode45/Control System basics used in 04-05).
